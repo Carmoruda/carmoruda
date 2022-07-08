@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Carmoruda/carmoruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='left' style="border-radius=25px" src="https://avatars.githubusercontent.com/u/65446318?v=4" height="250">
 
-Here are some ideas to get you started:
+```sh
+> biofetch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        👩‍💻 : carmoruda@github.com
+┌─────────────────────────────────────────┐
+  ⚙️ : she / her
+  🗺️ : Spain 
+  🕗 : 18 years old
+  🔭 : Computer science student (1st year)
+  🌱 : Python, C++ and Unity
+  🖥️ : Windows and Arch
+└─────────────────────────────────────────┘
+```
+
+<details markdown='1'><summary>Profile stats</summary><br><img src="https://github-readme-stats.vercel.app/api?username=carmoruda&show_icons=true&theme=tokyonight"></details>
