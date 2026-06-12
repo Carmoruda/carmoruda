@@ -9,8 +9,8 @@
 ┌──────────────────────────────────────────┐
   ⚙️ : she / her
   🗺️ : Spain 
-  🕗 : 21 years old
-  🔭 : Computer science student (Senior year)
+  🕗 : 22 years old
+  🔭 : B.Sc. in Computer Science
   🌱 : Python, C and C#
   🖥️ : Windows and Arch
 └──────────────────────────────────────────┘
