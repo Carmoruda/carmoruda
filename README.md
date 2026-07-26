@@ -16,7 +16,7 @@
   🕗 : 22 years old
   🔭 : B.Sc. in Computer Science
   🌱 : Python, C and C#
-  🖥️ : Windows and Arch
+  🖥️ : MacOs and Arch
 └──────────────────────────────────────────┘
 ```
 
